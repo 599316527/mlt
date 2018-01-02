@@ -1,0 +1,13 @@
+schema_version: 0.1
+type: filter
+identifier: extract_alpha_channel
+title: Extract Alpha Channel
+version: 1
+copyright: Baidu Inc.
+creator: Kyle
+license: LGPLv2.1
+language: en
+description: Extract alpha channel from image.
+tags:
+  - Video
+parameters:
